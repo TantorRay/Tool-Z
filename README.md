@@ -44,7 +44,9 @@ Open the terminal and type following commands.
 
 * `cd Tool-X`
 
-* 'chmod +x *'
+* `chmod +x *`
+
+
 
 * `sh install` if not work than use `./install`
 
